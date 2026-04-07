@@ -8,7 +8,7 @@ The app is a game where the user will Serve customers and complete orders under 
 
 # Clone the repo:
 
-- git clone desireedagondon000-gif/cafe_game  
+git clone https://github.com/desireedagondon000-gif/cafe_game.git
 
 # Navigate to the project folder:
 
