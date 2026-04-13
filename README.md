@@ -1,6 +1,6 @@
 # cafe_game
 
-An interactive café game with a cozy cafe vibe built in Flutter (Dart) with native Android functionality using Kotlin/Java
+An interactive café game with a cozy cafe vibe built in Flutter (Dart) with native Android functionality using Flutter
 
 The app is a game where the user will Serve customers and complete orders under a time limit.
 
